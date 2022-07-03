@@ -1,14 +1,14 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
-- Preferred Programming Language: C++/Java/Python
+- Name: VAIBHAV MISHRA
+- University Roll No.: 1900290000073
+- Branch: CIVIL
+- Section: B
+- Preferred Programming Language: JAVA
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
+- LeetCode: [VAIBHAV_MISHRA](https://leetcode.com/v0802mishra/)
+- HackerRank: [VAIBHAV_MISHRA](https://www.hackerrank.com/vaibhav_1923ce11)
 
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
